@@ -1,6 +1,4 @@
 # Build Microservices with AWS and Python 
-# The Hotel Booking System
-
 
 ![Microservices with Python and AWS ](https://img-b.udemycdn.com/course/750x422/5295272_c99f_4.jpg)
 
@@ -17,6 +15,8 @@ View the entire course here:
 
 ## Usage
 
-You must go through the course and build the microservices as well as their reletive APIs. Then use the demo website ![Hotel Booking System ](https://github.com/aussiearef/HotelBooking)
+You must complete the course and build the microservices and their reactive APIs. Then use the demo website ["Hotel Booking System"](https://github.com/aussiearef/HotelBooking)
+
+
 
 
